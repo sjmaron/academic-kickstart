@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Globalization",
+    "Urban Sociology",
+    "Social Movements",
+    "Mega-events"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MA Sociology"
+  institution = "Northeastern University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS Environmental Studies"
+  institution = "Antioch University New England"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BS Community and International Development"
+  institution = "University of Vermont"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Sam's research uses mega-events as a lens to explore the intersections of global cultural institutions and power in global cities. His current work uses the Olympic Games in Los Angeles (past and future) as a case study of how event-legacy discourses shape the future of the city. He also brings his background with the Tibetan freedom movement and as a union organizer to the study of solidarity activism in social movements. Prior to entering the PhD program in 2014, Sam earned an MS in environmental studies from Antioch University New England.
