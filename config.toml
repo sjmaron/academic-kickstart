@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://sjmaron.github.io/"
+baseurl = "https://sjmaron.com"
 
 # Title of your site
 title = "Samuel Maron"
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -306,10 +306,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 7
 
 # Search.
 # [params.search]
@@ -317,7 +317,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
