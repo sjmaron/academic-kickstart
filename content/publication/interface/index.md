@@ -1,5 +1,5 @@
 +++
-title = "Interface"
+title = "To change everything, it takes everyone: Recursivity in the People’s Climate March"
 date = 2019-01-10T12:32:32-05:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Danielle Falzon", "Samuel Maron", "Robert Wengronowitz", "Alex Press
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To change everything, it takes everyone: Recursivity in the People’s Climate March"
-publication_short = ""
+publication = "Interface: A journal for and about social movements"
+publication_short = "Interface"
 
 # Abstract and optional shortened version.
 abstract = "The People’s Climate March (PCM) in September 2014 brought hundreds of thousands of people into the streets of New York City in an unprecedented outpouring of support for action on climate change. With so much momentum behind it, the PCM made possible related events before and after the March itself. As activists and academics, we discuss the March weekend from the pre- march Climate Convergence to the post-march Flood Wall Street protest. We argue that the March weekend brought together a diversity of historically fragmented climate movement actors to recursively strategize the future of the climate movement. This happened through: 1) an open-source model of workshops and panels at the pre-March events; 2) The unbranded and segmented structure of the PCM; 3) the lack of a target; 4) an outlet for radical activists; 5) and a series of incidental contexts opening space for individuals to connect. In deliberately working toward inclusivity, the PCM and the events of the surrounding weekend facilitated simultaneous critique and negotiation of the climate movement’s future."
