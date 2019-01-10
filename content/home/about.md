@@ -31,9 +31,9 @@ weight = 5
   course = "BS Community and International Development"
   institution = "University of Vermont"
   year = 2008
- 
+
 +++
 
-# Biography
+# About
 
-Sam's research uses mega-events as a lens to explore the intersections of global cultural institutions and power in global cities. His current work uses the Olympic Games in Los Angeles (past and future) as a case study of how event-legacy discourses shape the future of the city. He also brings his background with the Tibetan freedom movement and as a union organizer to the study of solidarity activism in social movements. Prior to entering the PhD program in 2014, Sam earned an MS in environmental studies from Antioch University New England.
+Sam's research uses mega-events as a lens to explore the intersections of global cultural institutions and power in global cities. His current work uses Olympic Games bids and planning in Boston and Los Angeles (past and future) as case studies of how event-legacy discourses shape the future of the city. He also brings his background with the Tibetan freedom movement and as a union organizer to the study of solidarity activism in social movements. Prior to entering the PhD program in 2014, Sam earned an MS in environmental studies from Antioch University New England.
