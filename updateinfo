@@ -1,0 +1,42 @@
+# https://sourcethemes.com/academic/docs/deployment/
+https://sammaron.netlify.com/ updates automatically
+
+# To update website for sjmaron.github.io 
+
+### EASISEST WAY:
+## 1. Go to academic-kickstart AND sjmaron.github.io and click "open on desktop" for both
+## 2. Make edits.
+## 3. Terminal to the folder and then run the command hugo
+## 4. Copy the contents of the new "public" folder to the sjmaron.github.io folder.
+## 5. Go to github desktop app and click update.
+
+
+
+--------------
+
+git clone https://github.com/sjmaron/academic-kickstart.git website
+cd website
+git pull
+
+## MAKE UPDATES
+
+## delete Public folder. (rm -r public)
+git add .
+git commit -m "update content"
+git push -u origin master
+
+git submodule update --init --recursive
+git submodule add -f -b master https://github.com/sjmaron/sjmaron.github.io.git public
+git add .
+hugo
+cd public
+git add .
+git commit -m "update website"
+git push origin master
+cd ..
+
+## ADD PUBLICATION
+SEE: https://sourcethemes.com/academic/docs/managing-content/#create-a-publication
+
+# ../ is needed bc of bug in hugo
+hugo new --kind ../publication publication/interface/index.md
