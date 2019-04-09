@@ -19,8 +19,8 @@ Courses I have taught at Northeastern University include:
 
 **Introduction to Sociology** (Summer 2019, Fall 2019)
 
-**Sociology & Anthropology at Northeastern** (Fall 2018, Fall 2019)
-  * First-year seminar for majors
+**Sociology & Anthropology at Northeastern** (Fall 2017, Fall 2018)
+* First-year seminar for majors
 
 **Sports and International Relations** (Fall 2016)
-  * Political Science
+* Political Science
