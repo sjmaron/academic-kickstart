@@ -17,7 +17,8 @@ weight = 60
 
 Courses I have taught at Northeastern University include:
 
-* **Sociology & Anthropology at Northeastern** (Fall 2018, Fall 2019)
+**Introduction to Sociology** (Summer 2019, Fall 2019)
+**Sociology & Anthropology at Northeastern** (Fall 2018, Fall 2019)
   * First-year seminar for majors
-* **Sports and International Relations** (Fall 2016)
-  * Advanced course in the Political Science department
+**Sports and International Relations** (Fall 2016)
+  * Political Science
