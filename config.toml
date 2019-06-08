@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://sjmaron.com"
+baseurl = "https://www.samuelmaron.com/"
 
 # Title of your site
 title = "Samuel Maron"
@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "maron.s@husky.neu.edu"
   address = "900 Renaissance Park, 360 Huntington Ave, Boston, MA 03134"
-  office_hours = "Office hours by appointment"
+  # office_hours = "Office hours by appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
   # telegram = ""
@@ -167,7 +167,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -308,6 +308,7 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
