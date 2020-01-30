@@ -17,8 +17,8 @@ weight = 60
 
 ## Teaching at Northeastern University
 
-- Introduction to Sociology (Summer 2019, Fall 2019)
-- Sociology & Anthropology at Northeastern (Fall 2018, Fall 2019)
+- Introduction to Sociology (Spring 2020, Fall 2019, Summer 2019)
+- Sociology & Anthropology at Northeastern (Fall 2019, Fall 2018)
   - First-year seminar for majors
 - Sports and International Relations (Fall 2016)
   - In Political Science
