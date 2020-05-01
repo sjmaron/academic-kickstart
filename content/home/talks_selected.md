@@ -11,8 +11,10 @@ subtitle = ""
 weight = 29
 
 # List format.
-#   0 = Simple
-#   1 = Detailed
-#   3 = Stream
-list_format = 0
+#   1 = List (simple)
+#   2 = Compact (stream)
+#   3 = Card (detailed)
+#   4 = Citation (previously APA and MLA), only available for publications
+#   5 = Showcase (large images), only available for projects
+view = 0
 +++

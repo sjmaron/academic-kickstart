@@ -3,12 +3,12 @@ title = "Publications"
 date = 2017-01-01T00:00:00
 
 # List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 3
+#   1 = List (simple)
+#   2 = Compact (stream)
+#   3 = Card (detailed)
+#   4 = Citation (previously APA and MLA), only available for publications
+#   5 = Showcase (large images), only available for projects
+view = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

@@ -2,7 +2,7 @@
 # Selected Publications widget.
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
-widget = "publications_selected"
+widget = "publications_featured"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -13,12 +13,12 @@ subtitle = ""
 weight = 10
 
 # List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 1
+#   1 = List (simple)
+#   2 = Compact (stream)
+#   3 = Card (detailed)
+#   4 = Citation (previously APA and MLA), only available for publications
+#   5 = Showcase (large images), only available for projects
+view = 1
 
 # Filter by publication type.
 # -1: Any

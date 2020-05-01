@@ -14,10 +14,12 @@ weight = 30
 count = 10
 
 # List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
+#   1 = List (simple)
+#   2 = Compact (stream)
+#   3 = Card (detailed)
+#   4 = Citation (previously APA and MLA), only available for publications
+#   5 = Showcase (large images), only available for projects
+view = 2
 
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
