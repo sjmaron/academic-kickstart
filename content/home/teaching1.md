@@ -14,11 +14,13 @@ subtitle = "courses and seminars"
 weight = 60
 
 +++
+## Teaching at the University of Massachusetts Boston
+- Introduction to Sociology (Fall 2020)
 
 ## Teaching at Northeastern University
 
-- Introduction to Sociology (Spring 2020, Fall 2019, Summer 2019)
-- Sociology & Anthropology at Northeastern (Fall 2019, Fall 2018)
+- Introduction to Sociology (Summer 2019, Fall 2019, Spring 2020, Fall 2020)
+- Sociology & Anthropology at Northeastern (Fall 2018, Fall 2019)
   - First-year seminar for majors
 - Sports and International Relations (Fall 2016)
   - In Political Science
