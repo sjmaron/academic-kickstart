@@ -16,7 +16,7 @@ role = "PhD Candidate in Sociology"
 organizations = [ { name = "Northeastern University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -83,4 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My research focuses on urban imaginaries and democracy in urban globality. My dissertation explores urban democracy through the International Olympic Committee and the lens of the Olympic Games, using case studies of Los Angeles 1984, and the Boston and Los Angeles bids for 2024 / 2028. I study how small groups of people change their worlds, from the LA elites of 1984 to the anti-Olympic activists in Boston and LA today. This project brings together history, the contestation of institutional legacy discourse, and resistance, to uncover how people shape the future of their city. In other projects, I bring my background with the Tibetan freedom movement and union organizing to the study of solidarity activism in social movements.
+My research focuses on urban imaginaries and democracy in global cities. My dissertation explores how global cities use mega-events like the Olympic Games as image-making projects, turning spectacle and legacies into a development program. Using case studies of Los Angeles 1984 and the Boston and Los Angeles bids for 2024, I study how elite driven Olympic bids were transformed into benefit producers to solve urban problems. I also show how this transformation opened space for resistance and anti-bid campaigns to create counter-legacies to debate the future of the city. This project brings together history, the contestation of institutional legacy discourse, and resistance, to uncover how people shape the future of their city. In other projects, I bring my background with the Tibetan freedom movement and union organizing to the study of solidarity activism in social movements.
