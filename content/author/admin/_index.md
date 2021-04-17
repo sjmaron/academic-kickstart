@@ -35,6 +35,11 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "PhD Sociology"
+  institution = "Northeastern University"
+  year = 2021
+
+[[education.courses]]
   course = "MA Sociology"
   institution = "Northeastern University"
   year = 2016
