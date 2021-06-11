@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Sam Maron"
+name = "Sam Maron, PhD"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate in Sociology"
+role = "Sociologist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Northeastern University", url = "" } ]
+organizations = [ { name = "Northeastern University", url = "" },{ name = "University of Massachusetts Boston", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -88,4 +88,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My research focuses on urban imaginaries and democracy in global cities. My dissertation explores how global cities use mega-events like the Olympic Games as image-making projects, turning spectacle and legacies into a development program. Using case studies of Los Angeles 1984 and the Boston and Los Angeles bids for 2024, I study how elite driven Olympic bids were transformed into benefit producers to solve urban problems. I also show how this transformation opened space for resistance and anti-bid campaigns to create counter-legacies to debate the future of the city. This project brings together history, the contestation of institutional legacy discourse, and resistance, to uncover how people shape the future of their city. In other projects, I bring my background with the Tibetan freedom movement and union organizing to the study of solidarity activism in social movements.
+My research focuses on urban imaginaries, neoliberalism, and spectacle in global cities. My dissertation explores how global cities use mega-events like the Olympic Games as image-making projects, turning spectacle and legacies into a development program. Using case studies of Los Angeles 1984 and the Boston and Los Angeles bids for 2024, I study how elite driven Olympic bids were transformed into benefit producers to solve urban problems. I also show how this transformation opened space for resistance and anti-bid campaigns to create counter-legacies to debate the future of the city. This project brings together history, the contestation of institutional legacy discourse, and resistance, to uncover how people shape the future of their city.
+
+In my teaching, students learn how to think critically about their social worlds. Through writing, discussion, and creative projects, students learn how to understand the organization of their communities and how they can take action to build a better world.
